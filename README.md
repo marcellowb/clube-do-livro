@@ -1,4 +1,11 @@
-# clube-do-livro
+# Clube do Livro
+Parte front-end do desafio FullStack da WD7. Uma aplicação mobile friendly para fazer reservas de livros.
+
+### 🛠 Tecnologias usadas
+- Vue
+- Vue-router
+- Axios
+- Google Books API
 
 ## Project setup
 ```
